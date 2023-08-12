@@ -9,10 +9,15 @@ https://programming-23.mooc.fi/part-14/4-your-own-game
 The gist of the assignment was given as follows:
 
 #The game should contain the following features:
+
 #The game has a sprite the player can move in some way
+
 #The game has some collectable items and/or enemies
+
 #The player needs to be set a clear task in the game
+
 #The game contains a counter which tells the player how they are doing in the game
+
 #The source code for the game is divided into functions like in the Sokoban example
 
 And we were given a few basic .png assets to use and go play!
